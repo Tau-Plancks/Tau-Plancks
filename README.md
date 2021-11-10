@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tau-Plancks
 - 👀 I’m interested in PLC programming, Robotics, Aeronatics and Agritech.
 - 🌱 I’m currently learning R.
-- 💞️ I’m looking to collaborate on agritech and robotics projects.
+- 💞️ I’m looking to collaborate on data engineering, agritech and robotics projects.
 - 📫 How to reach me taurai@prodleader.co.zw
 
 <!---
